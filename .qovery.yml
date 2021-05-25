@@ -1,0 +1,11 @@
+---
+application:
+  name: "q-3"
+  project: "q3"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-q-3"
+  routes:
+  - application_name: "q-3"
+    paths:
+    - "/*"
