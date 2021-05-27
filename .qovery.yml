@@ -4,6 +4,7 @@ application:
   project: "q3"
   organization: "QoveryCommunity"
   publicly_accessible: true
+  dockerfile: backend/Dockerfile
 routers:
   - name: "main-q-3"
     custom_domains:
